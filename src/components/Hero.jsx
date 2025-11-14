@@ -6,7 +6,7 @@ export default function Hero() {
           <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight text-slate-900">Onorarii Funebre Buescu</h1>
           <p className="mt-4 text-lg text-slate-600">Sprijin discret și profesional în momente dificile. Servicii funerare complete în Buzău și împrejurimi, disponibile non‑stop.</p>
           <div className="mt-6 flex flex-wrap gap-3">
-            <a href="tel:+40700000000" className="inline-flex items-center justify-center px-5 py-3 rounded-md bg-slate-900 text-white shadow hover:bg-slate-800">Sună acum</a>
+            <a href="tel:+40723553653" className="inline-flex items-center justify-center px-5 py-3 rounded-md bg-slate-900 text-white shadow hover:bg-slate-800">Sună acum</a>
             <a href="#contact" className="inline-flex items-center justify-center px-5 py-3 rounded-md bg-white border border-slate-200 hover:bg-slate-50">Solicită ofertă</a>
           </div>
           <div className="mt-6 flex items-center gap-6 text-sm text-slate-600">

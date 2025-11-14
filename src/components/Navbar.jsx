@@ -27,8 +27,8 @@ export default function Navbar() {
           <button onClick={() => scrollTo('despre')} className="hover:text-slate-900">Despre</button>
           <button onClick={() => scrollTo('galerie')} className="hover:text-slate-900">Galerie</button>
           <button onClick={() => scrollTo('contact')} className="hover:text-slate-900">Contact</button>
-          <a href="tel:+40700000000" className="inline-flex items-center gap-2 bg-slate-900 text-white px-3 py-2 rounded-md shadow hover:bg-slate-800">
-            <Phone size={16} /> 24/7: 0700 000 000
+          <a href="tel:+40723553653" className="inline-flex items-center gap-2 bg-slate-900 text-white px-3 py-2 rounded-md shadow hover:bg-slate-800">
+            <Phone size={16} /> Nonstop: 0723 553 653
           </a>
         </nav>
         <button className="md:hidden p-2" onClick={() => setOpen(!open)} aria-label="Meniu">
@@ -42,8 +42,8 @@ export default function Navbar() {
             <button onClick={() => scrollTo('despre')} className="text-left">Despre</button>
             <button onClick={() => scrollTo('galerie')} className="text-left">Galerie</button>
             <button onClick={() => scrollTo('contact')} className="text-left">Contact</button>
-            <a href="tel:+40700000000" className="inline-flex items-center gap-2 bg-slate-900 text-white px-3 py-2 rounded-md shadow w-max">
-              <Phone size={16} /> 24/7: 0700 000 000
+            <a href="tel:+40723553653" className="inline-flex items-center gap-2 bg-slate-900 text-white px-3 py-2 rounded-md shadow w-max">
+              <Phone size={16} /> Nonstop: 0723 553 653
             </a>
           </div>
         </div>
